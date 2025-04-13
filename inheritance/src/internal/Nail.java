@@ -1,7 +1,8 @@
 package internal;
 
 public class Nail {
-        public Nail() {
+        public Nail()
+        {
             System.out.println("Nail: No-args constructor");
         }
 

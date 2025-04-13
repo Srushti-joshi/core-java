@@ -149,6 +149,165 @@ public class Runner {
             Fingernail fn = new Fingernail();
             fn.grow();
             fn.paint();
+            Helmate helm = new Helmate();
+            helm.protect();
+
+            Helmate bikeHelm = new BikeHelmate();
+            bikeHelm.protect();
+
+            BikeHelmate bh = new BikeHelmate();
+            bh.protect();
+            bh.visor();
+            Road road = new Road();
+            road.travel();
+
+            Road highway = new Highway();
+            highway.travel();
+
+            Highway hwy = new Highway();
+            hwy.travel();
+            hwy.tollGate();
+            Lipstick lipstick = new Lipstick();
+            lipstick.apply();
+
+            Lipstick matte = new MatteLipstick();
+            matte.apply();
+
+            MatteLipstick ml = new MatteLipstick();
+            ml.apply();
+            ml.longLasting();
+            Iron iron = new Iron();
+            iron.heat();
+
+            Iron steam = new SteamIron();
+            steam.heat();
+
+            SteamIron si = new SteamIron();
+            si.heat();
+            si.spraySteam();
+            Led led = new Led();
+            led.glow();
+
+            Led smart = new SmartLed();
+            smart.glow();
+
+            SmartLed sLed = new SmartLed();
+            sLed.glow();
+            sLed.changeColor();
+            Train train = new Train();
+            train.move();
+
+            Train bullet = new BulletTrain();
+            bullet.move();
+
+            BulletTrain bt = new BulletTrain();
+            bt.move();
+            bt.highSpeed();
+            Black black = new Black();
+            black.color();
+
+            Black bs = new BlackShirt();
+            bs.color();
+
+            BlackShirt shirt = new BlackShirt();
+            shirt.color();
+            shirt.style();
+            Drink drink = new Drink();
+            drink.consume();
+
+            Drink cold = new ColdDrink();
+            cold.consume();
+
+            ColdDrink cd = new ColdDrink();
+            cd.consume();
+            cd.chillLevel();
+            Mud mud = new Mud();
+            mud.texture();
+
+            Mud clay = new ClayMud();
+            clay.texture();
+
+            ClayMud cm = new ClayMud();
+            cm.texture();
+            cm.makePottery();
+            Hand hand = new Hand();
+            hand.move();
+
+            Hand humanHand = new HumanHand();
+            humanHand.move();
+
+            HumanHand hh = new HumanHand();
+            hh.move();
+            hh.grip();
+            Ticket ticket = new Ticket();
+            ticket.validate();
+
+            Ticket concertTicket = new ConcertTicket();
+            concertTicket.validate();
+
+            ConcertTicket ct = new ConcertTicket();
+            ct.validate();
+            ct.VIPAccess();
+            Towel towel = new Towel();
+            towel.dry();
+            Light light = new Light();
+            light.illuminate();
+
+            Light lamp = new Lamp();
+            lamp.illuminate();
+
+            Lamp l = new Lamp();
+            l.illuminate();
+            l.adjustBrightness();
+            Horse horse = new Horse();
+            horse.gallop();
+
+            Horse raceHorse = new RaceHorse();
+            raceHorse.gallop();
+
+            RaceHorse rh = new RaceHorse();
+            rh.gallop();
+            rh.sprint();
+            Beach beach = new Beach();
+            beach.relax();
+
+            Beach sandyBeach = new SandyBeach();
+            sandyBeach.relax();
+
+            SandyBeach sb = new SandyBeach();
+            sb.relax();
+            sb.play();
+            Mall mall = new Mall();
+            mall.visit();
+
+            Mall shoppingMall = new ShoppingMall();
+            shoppingMall.visit();
+
+            ShoppingMall sm = new ShoppingMall();
+            sm.visit();
+            sm.entertainment();
+            Pen pen = new Pen();
+            pen.write();
+
+            Pen fountainPen = new FountainPen();
+            fountainPen.write();
+
+            FountainPen fp = new FountainPen();
+            fp.write();
+            fp.refill();
+            Snap snap = new Snap();
+            snap.capture();
+
+            Snap snapchat = new Snapchat();
+            snapchat.capture();
+
+            Snapchat sc = new Snapchat();
+            sc.capture();
+            sc.share();
+
+
+
+
 
 
 
